@@ -1,0 +1,12 @@
+{
+  "name": "927",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
